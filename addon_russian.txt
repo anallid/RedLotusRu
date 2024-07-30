@@ -470,6 +470,7 @@
 		"item_prop_1_8"	"Vajra Talisman"
 		"item_prop_1_8_attr"	"Поглощает талисман, предоставляющий иммунитет ко всему урону на 10 секунд. "
 		"item_ability_1_1"	"Ocean Spirit Recovery Technique"
+		"item_ability_1_1"	"Ocean Spirit Recovery Technique"
 		"item_ability_1_1_attr"	"После использования, поглощяет celestial and terrestrial spirit energy на короткое время,значительно увеличивая скорость spirit recovery$$Перезарядка:<font color='#66FF00'>30S</font>$Длительность:<font color='#66FF00'>10S</font>$Восстановление максимального spirit в секунду:<font color='#66FF00'>1%/</font>$<font color='#ff4500'>Immortal technique можно заменить, исходная исчезнет!</font>"
 		"item_ability_1_2"	"Ocean Spirit Recovery Technique"
 		"item_ability_1_2_attr"	"После использования, поглощяет celestial and terrestrial spirit energy на короткое время,значительно увеличивая скорость spirit recovery$$Перезарядка:<font color='#66FF00'>30S</font>$Длительность:<font color='#66FF00'>10S</font>$Восстановление максимального spirit в секунду::<font color='#66FF00'>2%</font>$<font color='#ff4500'>Immortal technique можно заменить, исходная исчезнет!</font>"
